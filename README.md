@@ -1,1 +1,5 @@
 # thinkvantage
+
+-USE OWN YOUR OWN RISK-
+
+-NO INSTALL SCRIPT PROVIDED-

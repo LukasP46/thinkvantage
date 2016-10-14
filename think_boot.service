@@ -1,0 +1,10 @@
+[Unit]
+Description=For the ThinkVantage button
+
+[Service]
+Type=oneshot
+ExecStart=/home/lukas/linux_dev/thinkfan/think_boot.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
